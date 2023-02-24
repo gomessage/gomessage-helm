@@ -1,0 +1,7 @@
+.idea
+*.iml
+*.log
+*.exe
+out
+gen
+.DS_Store
