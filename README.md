@@ -39,15 +39,22 @@ helm upgrade --install gomessage gomessage/gomessage
 ```
 > 默认安装在gomessage命名空间中
 
-如需指定命名空间：
+安装到指定命名空间：
 ```bash
 helm upgrade --install gomessage gomessage/gomessage --namespace xxxx
 ```
 > - --namespace xxxx：代表把gomessage部署到指定namespace中，程序会自动创建出来对应的xxxx空间的
 
+### 卸载gomessage
+```bash
+helm uninstall gomessage
+#(或)
+helm uninstall gomessage --namespace xxxx
+```
+
+
 ### 其它参考命令
 ```bash
-# helm upgrade --install gomessage gomessage/gomessage --create-namespace --namespace default
 # helm pull gomessage/gomessage --untar
 # helm fetch gomessage/gomessage --untar
 ```
