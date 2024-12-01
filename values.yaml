@@ -1,6 +1,6 @@
 replicaCount: 1
 image:
-  repository: occos-docker.pkg.coding.net/repos/docker/gomessage
+  repository: gomessage/gomessage
   pullPolicy: IfNotPresent
   tag: "latest"
 
