@@ -22,6 +22,11 @@
 ```bash
 helm repo add gomessage https://gomessage.github.io/gomessage-helm
 ```
+删除Helm Chart
+```bash
+helm repo remove gomessage
+```
+
 
 ### 更新Chart
 ```bash
