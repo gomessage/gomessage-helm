@@ -1,3 +1,31 @@
+# 快速跳转
+
+### 文档库：
+ 
+- 中文文档：https://www.yuque.com/osoc/gomessage
+
+- English Document：https://www.yuque.com/osoc/gomessage-en
+
+### 开源地址：
+
+- Github仓库：https://github.com/gomessage/gomessage
+
+- Gitee仓库：https://gitee.com/gomessage/gomessage
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 使用教程
 
 ### 添加gomessage的Helm Chart
