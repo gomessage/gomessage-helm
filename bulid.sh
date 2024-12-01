@@ -2,7 +2,7 @@
 
 helm package .
 
-helm repo index . --url https://gomessage.github.io/gomessage-helm/
+helm repo index . --url https://gomessage.github.io/gomessage-helm
 
 
 #客户端操作

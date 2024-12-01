@@ -3,9 +3,9 @@ entries:
   gomessage:
   - apiVersion: v2
     appVersion: 2.3.18
-    created: "2024-12-01T17:17:29.124609+08:00"
+    created: "2024-12-01T17:27:54.241415+08:00"
     description: 一款轻量、友好、万能的消息转发器~
-    digest: 13e9b4ceb96b53557c78a7f27f487b24a26266ec8cad8c37090ecfb93cf18bc2
+    digest: a90c23e4bc286c87fdaacb41f7e6a197fe74150fd34a4642dd3465d447a5126c
     home: https://github.com/gomessage/gomessage
     keywords:
     - gomessage
@@ -20,4 +20,4 @@ entries:
     urls:
     - https://gomessage.github.io/gomessage-helm/gomessage-2.3.18.tgz
     version: 2.3.18
-generated: "2024-12-01T17:17:29.1237+08:00"
+generated: "2024-12-01T17:27:54.240562+08:00"
