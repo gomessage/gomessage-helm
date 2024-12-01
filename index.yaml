@@ -1,0 +1,23 @@
+apiVersion: v1
+entries:
+  gomessage:
+  - apiVersion: v2
+    appVersion: 2.3.18
+    created: "2024-12-01T17:09:29.941797+08:00"
+    description: 一款轻量、友好、万能的消息转发器~
+    digest: 13e9b4ceb96b53557c78a7f27f487b24a26266ec8cad8c37090ecfb93cf18bc2
+    home: https://github.com/gomessage/gomessage
+    keywords:
+    - gomessage
+    maintainers:
+    - email: tay3223@qq.com
+      name: 古寒飞
+    name: gomessage
+    sources:
+    - http://47.102.46.109:7077
+    - https://www.yuque.com/osoc/gomessage
+    type: application
+    urls:
+    - gomessage-2.3.18.tgz
+    version: 2.3.18
+generated: "2024-12-01T17:09:29.941267+08:00"
