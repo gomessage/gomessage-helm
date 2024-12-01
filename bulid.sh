@@ -12,10 +12,8 @@ helm repo index . --url https://gomessage.github.io/gomessage-helm
 #
 # helm repo search gomessage
 #
-# helm upgrade --install gomessage \
-#  gomessage/gomessage \
-#  --create-namespace \
-#  --namespace default
+# helm upgrade --install gomessage gomessage/gomessage
+# helm upgrade --install gomessage gomessage/gomessage --create-namespace --namespace default
 #
 # helm pull gomessage/gomessage --untar
 # helm fetch gomessage/gomessage --untar
