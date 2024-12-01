@@ -3,7 +3,7 @@ apiVersion: networking.k8s.io/v1
 kind: Ingress
 metadata:
   name: ingress-gomessage
-  namespace: default
+  namespace: gomessage
   annotations:
     cert-manager.io/cluster-issuer: prod-letsencrypt
     kubernetes.io/tls-acme: "true"
